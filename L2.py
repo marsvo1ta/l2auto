@@ -4,7 +4,6 @@ import selenium
 import  time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.actions import key_actions
-from selenium.webdriver.firefox.webdriver import WebDriver
 from selenium.webdriver.remote import webelement
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC, wait
